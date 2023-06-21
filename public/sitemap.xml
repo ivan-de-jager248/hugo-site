@@ -2,6 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://ivan-de-jager248.github.io/tags/blue/</loc>
+    <lastmod>2023-06-21T10:54:37+02:00</lastmod>
+  </url><url>
+    <loc>https://ivan-de-jager248.github.io/tags/green/</loc>
+    <lastmod>2023-06-21T10:54:37+02:00</lastmod>
+  </url><url>
     <loc>https://ivan-de-jager248.github.io/posts/my-first-post/</loc>
     <lastmod>2023-06-21T10:54:37+02:00</lastmod>
   </url><url>
@@ -11,8 +17,9 @@
     <loc>https://ivan-de-jager248.github.io/posts/</loc>
     <lastmod>2023-06-21T10:54:37+02:00</lastmod>
   </url><url>
-    <loc>https://ivan-de-jager248.github.io/categories/</loc>
-  </url><url>
     <loc>https://ivan-de-jager248.github.io/tags/</loc>
+    <lastmod>2023-06-21T10:54:37+02:00</lastmod>
+  </url><url>
+    <loc>https://ivan-de-jager248.github.io/categories/</loc>
   </url>
 </urlset>
