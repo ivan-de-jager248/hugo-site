@@ -1,4 +1,4 @@
-baseURL = 'https://ivan-de-jager248.github.io/hugo-site/'
+baseURL = 'https://ivan-de-jager248.github.io/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'ananke'
